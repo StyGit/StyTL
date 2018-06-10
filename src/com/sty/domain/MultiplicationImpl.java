@@ -15,9 +15,11 @@ public class MultiplicationImpl implements Multiplication {
 	}
 
 	@Override
-	public float mul(float firstVal, float secondVal) {
+	public float mul(float firstVal, float secondVal)  {
 		float result = firstVal * secondVal;
 		return result;
+	
+		
 	}
 
 	@Override
