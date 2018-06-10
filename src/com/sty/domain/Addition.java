@@ -6,5 +6,5 @@ public interface Addition {
 	public String add(String firstVal,String secondVal);
 	public float add(float firstVal,float secondVal);
 	public short add(short firstVal,short secondVal);
-	public byte add(byte firstVal,byte secondVal);
+	//public byte add(byte firstVal,byte secondVal);
 }
